@@ -1,4 +1,4 @@
-###delay-animate
+### delay-animate
 
 > 实现元素的animate随着scroll变化而显现
 
